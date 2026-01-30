@@ -1,0 +1,6 @@
+name: karakeep-save
+description: CLAWD-BOT skill - karakeep-save
+version: 1.0.0
+enabled: true
+triggers:
+  - "karakeep-save"

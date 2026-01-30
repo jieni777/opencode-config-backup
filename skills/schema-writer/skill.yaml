@@ -1,0 +1,6 @@
+name: schema-writer
+description: CLAWD-BOT skill - schema-writer
+version: 1.0.0
+enabled: true
+triggers:
+  - "schema-writer"

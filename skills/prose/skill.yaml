@@ -1,0 +1,6 @@
+name: prose
+description: CLAWD-BOT skill - prose
+version: 1.0.0
+enabled: true
+triggers:
+  - "prose"

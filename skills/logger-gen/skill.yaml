@@ -1,0 +1,6 @@
+name: logger-gen
+description: CLAWD-BOT skill - logger-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "logger-gen"

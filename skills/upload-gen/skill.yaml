@@ -1,0 +1,6 @@
+name: upload-gen
+description: CLAWD-BOT skill - upload-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "upload-gen"

@@ -1,0 +1,6 @@
+name: email-template-gen
+description: CLAWD-BOT skill - email-template-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "email-template-gen"

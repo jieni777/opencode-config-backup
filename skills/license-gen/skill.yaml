@@ -1,0 +1,6 @@
+name: license-gen
+description: CLAWD-BOT skill - license-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "license-gen"

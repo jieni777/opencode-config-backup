@@ -1,0 +1,6 @@
+name: sql-injection-scanner
+description: CLAWD-BOT skill - sql-injection-scanner
+version: 1.0.0
+enabled: true
+triggers:
+  - "sql-injection-scanner"

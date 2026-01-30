@@ -1,0 +1,6 @@
+name: stash-namer
+description: CLAWD-BOT skill - stash-namer
+version: 1.0.0
+enabled: true
+triggers:
+  - "stash-namer"

@@ -1,0 +1,6 @@
+name: permission-auditor
+description: CLAWD-BOT skill - permission-auditor
+version: 1.0.0
+enabled: true
+triggers:
+  - "permission-auditor"

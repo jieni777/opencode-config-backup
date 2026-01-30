@@ -1,0 +1,6 @@
+name: socket-gen
+description: CLAWD-BOT skill - socket-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "socket-gen"

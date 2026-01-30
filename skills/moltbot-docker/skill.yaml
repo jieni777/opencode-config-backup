@@ -1,0 +1,6 @@
+name: moltbot-docker
+description: CLAWD-BOT skill - moltbot-docker
+version: 1.0.0
+enabled: true
+triggers:
+  - "moltbot-docker"

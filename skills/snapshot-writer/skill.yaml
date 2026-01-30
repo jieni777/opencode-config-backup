@@ -1,0 +1,6 @@
+name: snapshot-writer
+description: CLAWD-BOT skill - snapshot-writer
+version: 1.0.0
+enabled: true
+triggers:
+  - "snapshot-writer"

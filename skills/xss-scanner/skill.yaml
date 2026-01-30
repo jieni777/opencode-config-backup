@@ -1,0 +1,6 @@
+name: xss-scanner
+description: CLAWD-BOT skill - xss-scanner
+version: 1.0.0
+enabled: true
+triggers:
+  - "xss-scanner"

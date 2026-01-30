@@ -1,0 +1,6 @@
+name: monitoring-gen
+description: CLAWD-BOT skill - monitoring-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "monitoring-gen"

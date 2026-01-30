@@ -1,0 +1,6 @@
+name: social-gen
+description: CLAWD-BOT skill - social-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "social-gen"

@@ -1,0 +1,7 @@
+node_modules/
+*.log
+.env
+*.backup_*
+.DS_Store
+.localized
+opencode.json.bak

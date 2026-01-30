@@ -1,0 +1,6 @@
+name: pitch-deck-gen
+description: CLAWD-BOT skill - pitch-deck-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "pitch-deck-gen"

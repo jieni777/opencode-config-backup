@@ -1,0 +1,6 @@
+name: vikunja-tasks
+description: CLAWD-BOT skill - vikunja-tasks
+version: 1.0.0
+enabled: true
+triggers:
+  - "vikunja-tasks"

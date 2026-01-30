@@ -1,0 +1,6 @@
+name: prefetcher
+description: CLAWD-BOT skill - prefetcher
+version: 1.0.0
+enabled: true
+triggers:
+  - "prefetcher"

@@ -1,0 +1,6 @@
+name: mock-gen
+description: CLAWD-BOT skill - mock-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "mock-gen"

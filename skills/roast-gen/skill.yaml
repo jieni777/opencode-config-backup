@@ -1,0 +1,6 @@
+name: roast-gen
+description: CLAWD-BOT skill - roast-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "roast-gen"

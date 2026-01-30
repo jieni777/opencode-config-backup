@@ -1,0 +1,6 @@
+name: queue-config-gen
+description: CLAWD-BOT skill - queue-config-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "queue-config-gen"

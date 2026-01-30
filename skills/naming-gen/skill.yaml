@@ -1,0 +1,6 @@
+name: naming-gen
+description: CLAWD-BOT skill - naming-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "naming-gen"

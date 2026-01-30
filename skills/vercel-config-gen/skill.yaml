@@ -1,0 +1,6 @@
+name: vercel-config-gen
+description: CLAWD-BOT skill - vercel-config-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "vercel-config-gen"

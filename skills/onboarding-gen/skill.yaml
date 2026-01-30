@@ -1,0 +1,6 @@
+name: onboarding-gen
+description: CLAWD-BOT skill - onboarding-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "onboarding-gen"

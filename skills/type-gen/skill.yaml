@@ -1,0 +1,6 @@
+name: type-gen
+description: CLAWD-BOT skill - type-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "type-gen"

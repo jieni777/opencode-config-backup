@@ -1,0 +1,6 @@
+name: rate-limiter
+description: CLAWD-BOT skill - rate-limiter
+version: 1.0.0
+enabled: true
+triggers:
+  - "rate-limiter"

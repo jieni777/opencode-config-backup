@@ -1,0 +1,6 @@
+name: adhd-daily-planner
+description: CLAWD-BOT skill - adhd-daily-planner
+version: 1.0.0
+enabled: true
+triggers:
+  - "adhd-daily-planner"

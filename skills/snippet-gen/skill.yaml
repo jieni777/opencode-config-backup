@@ -1,0 +1,6 @@
+name: snippet-gen
+description: CLAWD-BOT skill - snippet-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "snippet-gen"

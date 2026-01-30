@@ -1,0 +1,69 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "sqlite": {
+      "type": "local",
+      "command": ["npx", "-y", "mcp-sqlite-tools"],
+      "environment": {
+        "SQLITE_DEFAULT_PATH": "/Users/pro/Documents/code/kanmengou_v1/data/kanmengou.db"
+      },
+      "enabled": true,
+      "timeout": 15000
+    },
+    "memdb": {
+      "type": "local",
+      "command": ["npx", "-y", "@j0hanz/memdb"],
+      "environment": {
+        "MEMDB_DB_PATH": "/Users/pro/Documents/AI升级/.memdb/memory.db"
+      },
+      "enabled": true,
+      "timeout": 10000
+    },
+    "context7": {
+      "type": "remote",
+      "url": "https://mcp.context7.com/mcp",
+      "enabled": true,
+      "timeout": 15000
+    },
+    "playwright": {
+      "type": "local",
+      "command": ["npx", "-y", "@playwright/mcp"],
+      "enabled": true,
+      "timeout": 10000
+    },
+    "github": {
+      "type": "local",
+      "command": ["npx", "-y", "@modelcontextprotocol/server-github"],
+      "environment": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_TOKEN}"
+      },
+      "enabled": true,
+      "timeout": 10000
+    },
+    "filesystem": {
+      "type": "local",
+      "command": ["npx", "-y", "@modelcontextprotocol/server-filesystem", "/Users/pro/Documents", "/Users/pro/Documents/code", "/Users/pro/Documents/AI升级", "/Users/pro/Desktop", "/Users/pro/.config/opencode"],
+      "enabled": true,
+      "timeout": 8000
+    }
+  },
+  "permission": {
+    "skill": {
+      "*": "allow"
+    }
+  },
+  "tools": {
+    "skill": true,
+    "read": true,
+    "write": true,
+    "edit": true,
+    "bash": true,
+    "glob": true,
+    "grep": true,
+    "task": true,
+    "question": true,
+    "todowrite": true,
+    "todoread": true,
+    "webfetch": true
+  }
+}

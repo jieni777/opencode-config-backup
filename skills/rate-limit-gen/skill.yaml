@@ -1,0 +1,6 @@
+name: rate-limit-gen
+description: CLAWD-BOT skill - rate-limit-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "rate-limit-gen"

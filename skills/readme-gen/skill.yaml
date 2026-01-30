@@ -1,0 +1,6 @@
+name: readme-gen
+description: CLAWD-BOT skill - readme-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "readme-gen"

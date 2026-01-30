@@ -1,0 +1,6 @@
+name: prisma-gen
+description: CLAWD-BOT skill - prisma-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "prisma-gen"

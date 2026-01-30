@@ -1,0 +1,6 @@
+name: release-notes-gen
+description: CLAWD-BOT skill - release-notes-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "release-notes-gen"

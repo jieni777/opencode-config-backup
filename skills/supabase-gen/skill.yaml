@@ -1,0 +1,6 @@
+name: supabase-gen
+description: CLAWD-BOT skill - supabase-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "supabase-gen"

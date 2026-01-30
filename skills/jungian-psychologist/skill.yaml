@@ -1,0 +1,6 @@
+name: jungian-psychologist
+description: CLAWD-BOT skill - jungian-psychologist
+version: 1.0.0
+enabled: true
+triggers:
+  - "jungian-psychologist"

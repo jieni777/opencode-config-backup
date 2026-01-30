@@ -1,0 +1,6 @@
+name: gitignore-gen
+description: CLAWD-BOT skill - gitignore-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "gitignore-gen"

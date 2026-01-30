@@ -1,0 +1,6 @@
+name: vitals-fixer
+description: CLAWD-BOT skill - vitals-fixer
+version: 1.0.0
+enabled: true
+triggers:
+  - "vitals-fixer"

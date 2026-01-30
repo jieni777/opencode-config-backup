@@ -1,0 +1,6 @@
+name: slopesniper-skill
+description: CLAWD-BOT skill - slopesniper-skill
+version: 1.0.0
+enabled: true
+triggers:
+  - "slopesniper-skill"

@@ -1,0 +1,6 @@
+name: wiki-gen
+description: CLAWD-BOT skill - wiki-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "wiki-gen"

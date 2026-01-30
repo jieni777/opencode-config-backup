@@ -1,0 +1,6 @@
+name: nginx-config-gen
+description: CLAWD-BOT skill - nginx-config-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "nginx-config-gen"

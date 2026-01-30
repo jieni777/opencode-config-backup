@@ -1,0 +1,6 @@
+name: refactorer
+description: CLAWD-BOT skill - refactorer
+version: 1.0.0
+enabled: true
+triggers:
+  - "refactorer"

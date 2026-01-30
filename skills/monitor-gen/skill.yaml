@@ -1,0 +1,6 @@
+name: monitor-gen
+description: CLAWD-BOT skill - monitor-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "monitor-gen"

@@ -1,0 +1,6 @@
+name: k8s-gen
+description: CLAWD-BOT skill - k8s-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "k8s-gen"

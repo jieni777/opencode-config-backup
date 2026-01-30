@@ -1,0 +1,6 @@
+name: websocket-gen
+description: CLAWD-BOT skill - websocket-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "websocket-gen"

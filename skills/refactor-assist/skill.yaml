@@ -1,0 +1,6 @@
+name: refactor-assist
+description: CLAWD-BOT skill - refactor-assist
+version: 1.0.0
+enabled: true
+triggers:
+  - "refactor-assist"

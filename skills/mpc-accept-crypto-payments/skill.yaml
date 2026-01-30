@@ -1,0 +1,6 @@
+name: mpc-accept-crypto-payments
+description: CLAWD-BOT skill - mpc-accept-crypto-payments
+version: 1.0.0
+enabled: true
+triggers:
+  - "mpc-accept-crypto-payments"

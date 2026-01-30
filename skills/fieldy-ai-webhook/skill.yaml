@@ -1,0 +1,6 @@
+name: fieldy-ai-webhook
+description: CLAWD-BOT skill - fieldy-ai-webhook
+version: 1.0.0
+enabled: true
+triggers:
+  - "fieldy-ai-webhook"

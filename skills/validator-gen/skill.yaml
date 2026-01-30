@@ -1,0 +1,6 @@
+name: validator-gen
+description: CLAWD-BOT skill - validator-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "validator-gen"

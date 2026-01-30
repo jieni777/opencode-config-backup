@@ -1,0 +1,6 @@
+name: migration-gen
+description: CLAWD-BOT skill - migration-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "migration-gen"

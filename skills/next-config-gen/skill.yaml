@@ -1,0 +1,6 @@
+name: next-config-gen
+description: CLAWD-BOT skill - next-config-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "next-config-gen"

@@ -1,0 +1,6 @@
+name: resume-gen
+description: CLAWD-BOT skill - resume-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "resume-gen"

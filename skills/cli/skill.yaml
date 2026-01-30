@@ -1,0 +1,6 @@
+name: cli
+description: CLAWD-BOT skill - cli
+version: 1.0.0
+enabled: true
+triggers:
+  - "cli"

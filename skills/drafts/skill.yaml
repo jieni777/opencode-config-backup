@@ -1,0 +1,6 @@
+name: drafts
+description: CLAWD-BOT skill - drafts
+version: 1.0.0
+enabled: true
+triggers:
+  - "drafts"

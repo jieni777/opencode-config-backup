@@ -1,0 +1,6 @@
+name: serpapi-mcp
+description: CLAWD-BOT skill - serpapi-mcp
+version: 1.0.0
+enabled: true
+triggers:
+  - "serpapi-mcp"

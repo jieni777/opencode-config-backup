@@ -1,0 +1,6 @@
+name: monorepo-gen
+description: CLAWD-BOT skill - monorepo-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "monorepo-gen"

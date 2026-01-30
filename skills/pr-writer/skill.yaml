@@ -1,0 +1,6 @@
+name: pr-writer
+description: CLAWD-BOT skill - pr-writer
+version: 1.0.0
+enabled: true
+triggers:
+  - "pr-writer"

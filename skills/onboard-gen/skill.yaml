@@ -1,0 +1,6 @@
+name: onboard-gen
+description: CLAWD-BOT skill - onboard-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "onboard-gen"

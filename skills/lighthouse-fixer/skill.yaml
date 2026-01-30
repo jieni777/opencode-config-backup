@@ -1,0 +1,6 @@
+name: lighthouse-fixer
+description: CLAWD-BOT skill - lighthouse-fixer
+version: 1.0.0
+enabled: true
+triggers:
+  - "lighthouse-fixer"

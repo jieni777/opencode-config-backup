@@ -1,0 +1,6 @@
+name: npm-script-gen
+description: CLAWD-BOT skill - npm-script-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "npm-script-gen"

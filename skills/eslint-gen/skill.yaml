@@ -1,0 +1,6 @@
+name: eslint-gen
+description: CLAWD-BOT skill - eslint-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "eslint-gen"

@@ -1,0 +1,6 @@
+name: craft-cli
+description: CLAWD-BOT skill - craft-cli
+version: 1.0.0
+enabled: true
+triggers:
+  - "craft-cli"

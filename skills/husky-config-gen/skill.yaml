@@ -1,0 +1,6 @@
+name: husky-config-gen
+description: CLAWD-BOT skill - husky-config-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "husky-config-gen"

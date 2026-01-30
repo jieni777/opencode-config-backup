@@ -1,0 +1,6 @@
+name: form-gen
+description: CLAWD-BOT skill - form-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "form-gen"

@@ -1,0 +1,6 @@
+name: x-mastery
+description: CLAWD-BOT skill - x-mastery
+version: 1.0.0
+enabled: true
+triggers:
+  - "x-mastery"

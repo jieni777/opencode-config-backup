@@ -1,0 +1,6 @@
+name: stash-name-gen
+description: CLAWD-BOT skill - stash-name-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "stash-name-gen"

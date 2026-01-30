@@ -1,0 +1,6 @@
+name: rest-to-graphql
+description: CLAWD-BOT skill - rest-to-graphql
+version: 1.0.0
+enabled: true
+triggers:
+  - "rest-to-graphql"

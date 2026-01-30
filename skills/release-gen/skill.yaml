@@ -1,0 +1,6 @@
+name: release-gen
+description: CLAWD-BOT skill - release-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "release-gen"

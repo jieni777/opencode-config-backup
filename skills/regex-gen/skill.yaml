@@ -1,0 +1,6 @@
+name: regex-gen
+description: CLAWD-BOT skill - regex-gen
+version: 1.0.0
+enabled: true
+triggers:
+  - "regex-gen"

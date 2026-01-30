@@ -1,0 +1,6 @@
+name: gevety
+description: CLAWD-BOT skill - gevety
+version: 1.0.0
+enabled: true
+triggers:
+  - "gevety"
