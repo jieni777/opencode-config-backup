@@ -1,6 +1,0 @@
-name: landing-gen
-description: CLAWD-BOT skill - landing-gen
-version: 1.0.0
-enabled: true
-triggers:
-  - "landing-gen"

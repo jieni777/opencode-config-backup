@@ -1,6 +1,0 @@
-name: image-optimizer
-description: CLAWD-BOT skill - image-optimizer
-version: 1.0.0
-enabled: true
-triggers:
-  - "image-optimizer"

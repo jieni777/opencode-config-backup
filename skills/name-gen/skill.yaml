@@ -1,6 +1,0 @@
-name: name-gen
-description: CLAWD-BOT skill - name-gen
-version: 1.0.0
-enabled: true
-triggers:
-  - "name-gen"

@@ -1,6 +1,0 @@
-name: lazy-loader
-description: CLAWD-BOT skill - lazy-loader
-version: 1.0.0
-enabled: true
-triggers:
-  - "lazy-loader"

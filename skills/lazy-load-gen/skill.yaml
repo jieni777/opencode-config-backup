@@ -1,6 +1,0 @@
-name: lazy-load-gen
-description: CLAWD-BOT skill - lazy-load-gen
-version: 1.0.0
-enabled: true
-triggers:
-  - "lazy-load-gen"

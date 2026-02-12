@@ -1,6 +1,0 @@
-name: beeper-api-cli
-description: CLAWD-BOT skill - beeper-api-cli
-version: 1.0.0
-enabled: true
-triggers:
-  - "beeper-api-cli"

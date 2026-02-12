@@ -1,6 +1,0 @@
-name: k8s-config-gen
-description: CLAWD-BOT skill - k8s-config-gen
-version: 1.0.0
-enabled: true
-triggers:
-  - "k8s-config-gen"

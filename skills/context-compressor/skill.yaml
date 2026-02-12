@@ -1,6 +1,0 @@
-name: context-compressor
-description: CLAWD-BOT skill - context-compressor
-version: 1.0.0
-enabled: true
-triggers:
-  - "context-compressor"

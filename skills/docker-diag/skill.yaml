@@ -1,6 +1,0 @@
-name: docker-diag
-description: CLAWD-BOT skill - docker-diag
-version: 1.0.0
-enabled: true
-triggers:
-  - "docker-diag"

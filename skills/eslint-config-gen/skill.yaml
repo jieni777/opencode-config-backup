@@ -1,6 +1,0 @@
-name: eslint-config-gen
-description: CLAWD-BOT skill - eslint-config-gen
-version: 1.0.0
-enabled: true
-triggers:
-  - "eslint-config-gen"
